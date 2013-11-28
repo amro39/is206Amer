@@ -12,7 +12,7 @@ Det fjerde du gjør er å skrive inn slowly place the bomb.
 Så vil du på slutten et alternativ, der du må ente et tall fra 1-5 som er random tall.
 Det tallet varier fra gang til gang. Gjetter du riktig er du videre, gjetter du feil dør du.
 
-
+Det ligger også en tekt fil som heter oppgave 22. Klikk inn på den også view draw. Der ligger mine svar i tekst på oppgave 22.
 
 Assignment 3 
 

@@ -69,7 +69,7 @@ def render_post(response, post):
 
 class MainPage(BlogHandler):
   def get(self):
-      self.render('forside.html')
+      self.render('forside') ##Opens up the fortside template, where you can click on the functins i have created
 
 
 # bruker
@@ -334,4 +334,3 @@ app = webapp2.WSGIApplication([('/', MainPage),
                                ('/unit3/welcome', Unit3Welcome),
                                ],
                               debug=True)
-

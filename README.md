@@ -4,7 +4,13 @@ is206Amer
 Assignment for is 206 uia
 assignment 2
 
-bla bla bla
+Spillet.
+Det første du gjør når du kjører spillet er å velte alternativet tell a joke.
+Det andre du gjør er å skrive hint, for å kinne løse koden. Du vil få opp en kode med tre sifre.
+Det tredje du gjør er å skrive inn den koden som du får inn.
+Det fjerde du gjør er å skrive inn slowly place the bomb.
+Så vil du på slutten et alternativ, der du må ente et tall fra 1-5 som er random tall.
+Det tallet varier fra gang til gang. Gjetter du riktig er du videre, gjetter du feil dør du.
 
 
 
